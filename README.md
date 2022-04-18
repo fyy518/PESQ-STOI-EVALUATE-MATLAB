@@ -19,3 +19,16 @@ fs: sample rate (unit = Hz)
 
 # If you hava some question
 connect the e-mail: 2272877794@qq.com
+
+# Reference
+Because the program is based on RoyChao19477/PCS/speech_metrics/, the link of the based program is here: https://github.com/RoyChao19477/PCS/tree/main/speech_metrics
+
+```
+@article{chao2022perceptual,
+  title={Perceptual Contrast Stretching on Target Feature for Speech Enhancement},
+  author={Chao, Rong and Yu, Cheng and Fu, Szu-Wei and Lu, Xugang and Tsao, Yu},
+  journal={arXiv preprint arXiv:2203.17152},
+  year={2022}
+}
+```
+
