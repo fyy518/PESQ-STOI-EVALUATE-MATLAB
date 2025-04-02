@@ -17,8 +17,8 @@ filenum: the number of the speech files in the clean_dir or enhance_dir (these t
 fs: sample rate (unit = Hz)
 ## Secondly, run getFiles.m in your matlab
 
-# If you hava some question
-connect the e-mail: 2272877794@qq.com
+# If you hava any question
+please connect with the e-mail: 2272877794@qq.com
 
 # Reference
 Because the program is based on RoyChao19477/PCS/speech_metrics/, the link of the based program is here: https://github.com/RoyChao19477/PCS/tree/main/speech_metrics
